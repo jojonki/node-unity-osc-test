@@ -1,4 +1,4 @@
-mode-unity-osc-test
+node-unity-osc-test
 ===================
 
 This app is test application which communicates between node.js and unity via osc.
