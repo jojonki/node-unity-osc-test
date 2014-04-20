@@ -1,7 +1,7 @@
 mode-unity-osc-test
 ===================
 
-communication between node.js and unity via osc
+This app is test application which communicates between node.js and unity via osc.
 
 
 # Libraries  
